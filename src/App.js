@@ -4,7 +4,7 @@ import React from 'react';
 import {Route, BrowserRouter,Routes} from 'react-router-dom';
 
 import DexForce from './components/Skywalker';
-import Single from './components/people'
+import Single from './components/People'
 
 function App() {
   return (
